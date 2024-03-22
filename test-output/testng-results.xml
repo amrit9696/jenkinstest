@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-03-21T16:47:31 EDT" name="Suite" finished-at="2024-03-21T16:47:31 EDT" duration-ms="54">
+    <groups>
+    </groups>
+    <test started-at="2024-03-21T16:47:31 EDT" name="Test" finished-at="2024-03-21T16:47:31 EDT" duration-ms="54">
+      <class name="test.Script1">
+        <test-method signature="test()[pri:0, instance:test.Script1@20deea7f]" started-at="2024-03-21T16:47:31 EDT" name="test" finished-at="2024-03-21T16:47:31 EDT" duration-ms="9" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+      </class> <!-- test.Script1 -->
+      <class name="test.Script2">
+        <test-method signature="test()[pri:0, instance:test.Script2@72057ecf]" started-at="2024-03-21T16:47:31 EDT" name="test" finished-at="2024-03-21T16:47:31 EDT" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+      </class> <!-- test.Script2 -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
