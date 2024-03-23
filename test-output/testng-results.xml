@@ -1,19 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2024-03-21T16:47:31 EDT" name="Suite" finished-at="2024-03-21T16:47:31 EDT" duration-ms="54">
+  <suite started-at="2024-03-23T18:59:40 EDT" name="Suite" finished-at="2024-03-23T18:59:40 EDT" duration-ms="67">
     <groups>
     </groups>
-    <test started-at="2024-03-21T16:47:31 EDT" name="Test" finished-at="2024-03-21T16:47:31 EDT" duration-ms="54">
+    <test started-at="2024-03-23T18:59:40 EDT" name="Test" finished-at="2024-03-23T18:59:40 EDT" duration-ms="67">
+      <class name="test.Script3">
+        <test-method signature="test()[pri:0, instance:test.Script3@333291e3]" started-at="2024-03-23T18:59:40 EDT" name="test" finished-at="2024-03-23T18:59:40 EDT" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+      </class> <!-- test.Script3 -->
+      <class name="test.Script4">
+        <test-method signature="tester()[pri:0, instance:test.Script4@479d31f3]" started-at="2024-03-23T18:59:40 EDT" name="tester" finished-at="2024-03-23T18:59:40 EDT" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tester -->
+      </class> <!-- test.Script4 -->
       <class name="test.Script1">
-        <test-method signature="test()[pri:0, instance:test.Script1@20deea7f]" started-at="2024-03-21T16:47:31 EDT" name="test" finished-at="2024-03-21T16:47:31 EDT" duration-ms="9" status="PASS">
+        <test-method signature="test()[pri:0, instance:test.Script1@20ce78ec]" started-at="2024-03-23T18:59:40 EDT" name="test" finished-at="2024-03-23T18:59:40 EDT" duration-ms="7" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- test -->
       </class> <!-- test.Script1 -->
       <class name="test.Script2">
-        <test-method signature="test()[pri:0, instance:test.Script2@72057ecf]" started-at="2024-03-21T16:47:31 EDT" name="test" finished-at="2024-03-21T16:47:31 EDT" duration-ms="2" status="PASS">
+        <test-method signature="test()[pri:0, instance:test.Script2@43195e57]" started-at="2024-03-23T18:59:40 EDT" name="test" finished-at="2024-03-23T18:59:40 EDT" duration-ms="1" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- test -->
