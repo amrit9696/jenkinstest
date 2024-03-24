@@ -8,6 +8,8 @@ public class Script4 {
 	@Test
 	public static void tester() {
 		System.out.println("I am tester1");
+		System.out.println("I am fruit from remote");
+		
 
 	}
 	
